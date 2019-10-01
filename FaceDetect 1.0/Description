@@ -1,0 +1,10 @@
+This folder contains the all the files required to detect a face and recognizes it. It contains three part
+1.DataSet creator.py which basically ask for an unique id of the person one want to detect
+2. trainer.py creates an yml file that trains the whole dataset overall again.
+3. detector.py is basically used to detect and recognizes the face
+
+/-------------------------------------------------------------------------------------------------------
+Technologies used:
+
+OCV Version 4.1
+Python Version 3.6
